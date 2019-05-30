@@ -1,0 +1,7 @@
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\obj\Debug\CoinFlipSim.csprojAssemblyReference.cache
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\obj\Debug\CoinFlipSim.csproj.CoreCompileInputs.cache
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\bin\Debug\CoinFlipSim.exe.config
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\bin\Debug\CoinFlipSim.exe
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\bin\Debug\CoinFlipSim.pdb
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\obj\Debug\CoinFlipSim.exe
+D:\projects\c#practis\rapidfire\CoinFlip\CoinFlipSim\CoinFlipSim\obj\Debug\CoinFlipSim.pdb
